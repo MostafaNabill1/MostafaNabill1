@@ -2,6 +2,12 @@
 <h3 align="center">💻 CS Student | C++ & Python Programmer | Front-End HTML Developer 💻</h3>
 
 <p align="center">
+  <a href="mailto:mostafam3570@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.facebook.com/share/15BjUvQMe2/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/mostafa_nabil_60_?igsh=dmZzMzcyYjUweWoz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;C%2B%2B+Programmer;Python+Developer;Front-End+Developer+(HTML);Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
@@ -59,20 +65,11 @@
 
 ---
 
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:mostafam3570@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/share/15BjUvQMe2/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/mostafa_nabil_60_?igsh=dmZzMzcyYjUweWoz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
----
-
 <p align="center">
   <b>"Code never lies, comments sometimes do."</b><br>
   — Ron Jeffries
 </p>
+
 
 
 
