@@ -1,126 +1,170 @@
-<h1 align="center">👋 Hi, I'm Mostafa Nabil</h1>
-<h3 align="center">Data Science Student | Machine Learning Enthusiast | Python Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:mostafam3570@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/MostafaNabill1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+# 👋 Hi, I'm Mostafa Nabil
+
+### Data Science Student • Machine Learning Enthusiast • Python Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀" />
+
+<p>
+<a href="mailto:mostafam3570@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MostafaNabill1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.facebook.com/share/15BjUvQMe2/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/mostafa_nabil_60_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Data+Analysis+with+Python;Always+Learning+New+Things+🚀">
-</p>
+</div>
 
 ---
 
-# 💡 About Me
+# 💫 About Me
 
-🎓 Computer Science Student
+🎓 Computer Science Student.
 
-📊 Passionate about Data Science, Machine Learning and Artificial Intelligence.
+📊 Passionate about **Data Science, Machine Learning and Artificial Intelligence.**
 
-🐍 Building practical projects using Python.
+🐍 Building practical projects using Python and real-world datasets.
 
-📈 Interested in:
+📈 Interested in
+
 - Data Analysis
 - Machine Learning
-- Predictive Modeling
 - Data Visualization
+- Artificial Intelligence
+- Problem Solving
 
-🚀 Currently improving my problem-solving and data science skills through real-world projects.
+🌱 Currently focused on becoming a professional Data Scientist through continuous learning and hands-on projects.
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql"/>
+
+</p>
 
 ### Data Science
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,jupyter"/>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+</p>
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Python
+✔ NumPy
+✔ Pandas
+✔ Data Visualization
+
+🔄 Machine Learning
+⬜ Deep Learning
+⬜ NLP
+⬜ MLOps
+```
+
+---
+
+# 🚀 Goals for 2026
+
+- Build 20+ Data Science Projects
+- Master Machine Learning
+- Participate in Kaggle Competitions
+- Contribute to Open Source
+- Land a Data Science Internship
 
 ---
 
 # 📂 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| House Price Prediction | Machine Learning Regression Project |
-| Sales Analysis Dashboard | Data Analysis using Pandas & Matplotlib |
-| Customer Churn Prediction | Classification Model |
-| Exploratory Data Analysis | Real datasets with Pandas |
+|---------|-------------|
+| 📊 Exploratory Data Analysis | Analyze datasets using Pandas & NumPy |
+| 📈 Data Visualization | Charts using Matplotlib |
+| 🤖 Machine Learning Projects | Regression & Classification Models |
+| 🧠 AI Mini Projects | Practical AI applications |
 
 ---
 
-# 📚 Currently Learning
+# 📊 GitHub Analytics
 
-- Machine Learning
-- Feature Engineering
-- Statistics
-- SQL
-- Deep Learning (Next)
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MostafaNabill1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📊 GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaNabill1&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MostafaNabill1&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaNabill1&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaNabill1&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MostafaNabill1&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-## 📫 Let's Connect
-
-📧 mostafam3570@gmail.com
-
-Always open to collaboration, internships and Data Science opportunities.
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Turning Data into Insights.
+<img src="https://github-profile-trophy.vercel.app/?username=MostafaNabill1&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</p>
+</div>
 
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaNabill1&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Contact Me
+
+📧 **Email:** mostafam3570@gmail.com
+
+💬 Always open to collaboration, internships and Data Science opportunities.
+
+---
+
+<div align="center">
+
+### ⭐ Turning Data Into Insights
+
+*"Without data, you're just another person with an opinion."*  
+— W. Edwards Deming
+
+</div>
 
 
